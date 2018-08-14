@@ -10,3 +10,9 @@ function distanceFromHqInFeet(block) {
 function distanceTravelledInFeet(block1, block2) {
   return Math.abs(block1 - block2) * 264
 }
+
+function calculatesFarePrice(start, destination) {
+  case distanceTravelledInFeet(start, destination) {
+    
+  }
+}
